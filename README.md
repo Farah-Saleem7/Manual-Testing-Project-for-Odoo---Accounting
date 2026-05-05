@@ -1,4 +1,4 @@
-# Manual-Testing-Project-for-Odoo---Accounting
+# Manual-Testing-Project-for-Odoo--Accounting
 This project demonstrates a rigorous manual testing execution on the Odoo accounting ecosystem, ensuring all financial records and workflows align with standard accounting practices. Successfully validated end-to-end financial cycles with a focus on ledger accuracy.
 
 🛠️ Tool Stack & Methodology
