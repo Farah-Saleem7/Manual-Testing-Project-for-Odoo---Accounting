@@ -18,3 +18,4 @@ Accounts Payable: Vendor Payments and Refund workflows.
 General Ledger: Transactions and Closing Testing to verify trial balances.
 
 Data Integrity: Detailed validation of Products Testing, including tax configurations and inventory valuation.
+-------------------------------------------------------------------------------------------------------------
